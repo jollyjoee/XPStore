@@ -1,0 +1,11 @@
+name: XPStore
+version: '1.0.0'
+main: com.jolly.xPStore.XPStore
+api-version: '1.21'
+authors: [Jolly]
+folia-supported: true
+description: Allows XP storing into glassbottle
+permissions:
+  xpstore.use:
+    description: Allows the player to use XP Bottling
+    default: true
